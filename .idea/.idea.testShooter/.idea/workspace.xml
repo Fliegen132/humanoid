@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="418758a8-e3e5-4ba8-ab9e-0353a606365e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/WeaponsArray.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/DropGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerBehavior/SJ.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Trace/DestroyTrace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowFPS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Pistol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/DestroySoundGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/AnimationList/AnimationList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ChangeUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timerr/TimeDelay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/ChangeWeapon/ChangeWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.9/Runtime/Behaviours/CinemachineFreeLook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/ResetAll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Uzi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Fist.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerRun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Guns/IWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/SCriptableObjects/SOGuns.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAim.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/WeaponsArray.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationList/AnimationList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timerr/TimeDelay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/ResetAll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/ScriptableObject/SOGuns.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/IWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Fist.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/DropGun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ChangeUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/DestroySoundGun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Uzi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Attack/Attack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/varietyGuns/Pistol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ChangeWeapon/ChangeWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShowFPS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerBehavior/PlayerAim.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/TouchField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/Cinetouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerBehavior/SJJump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Trace/DestroyTrace.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerBehavior/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerBehavior/SJ.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R7Fm85GPTNDTOVadUsDuXQ8xOX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418758a8-e3e5-4ba8-ab9e-0353a606365e" name="Default Changelist" comment="" />
+      <created>1686593377861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686593377861</updated>
+      <workItem from="1686593385344" duration="1891000" />
+      <workItem from="1686598737051" duration="2357000" />
+      <workItem from="1686639649971" duration="643000" />
+      <workItem from="1686665917718" duration="414000" />
+      <workItem from="1686670753334" duration="1294000" />
+      <workItem from="1686672613952" duration="5837000" />
+      <workItem from="1686738642093" duration="1000" />
+      <workItem from="1686738779389" duration="2005000" />
+      <workItem from="1686741709966" duration="541000" />
+      <workItem from="1686772680855" duration="2890000" />
+      <workItem from="1686938364960" duration="13350000" />
+      <workItem from="1686987891859" duration="5790000" />
+      <workItem from="1687011282580" duration="8228000" />
+      <workItem from="1687068312121" duration="22432000" />
+      <workItem from="1687158544089" duration="14708000" />
+      <workItem from="1687201695363" duration="4217000" />
+      <workItem from="1687206870183" duration="390000" />
+      <workItem from="1687236681366" duration="3691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="221" key="RiderGenerateDialog" timestamp="1687011541025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="221" key="RiderGenerateDialog/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1687011541025" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1687202374782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1687202374782" />
+  </component>
+</project>

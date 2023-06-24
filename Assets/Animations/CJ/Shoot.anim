@@ -1,0 +1,5437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shoot
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.10554447, y: 0.23737805, z: -0.001971947, w: 0.96566457}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.16684178, y: 0.21393953, z: 0.9519658, w: 0.14196725}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.31390807, y: -0.0039276695, z: 0.0031159902, w: 0.9494402}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.48829013, y: 0.051797524, z: 0.011945736, w: 0.87106085}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.18478827, y: -0.012190552, z: -0.06150178, w: 0.9807763}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.05805208, y: -0.08039178, z: -0.9784056, w: 0.18135475}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4314171, y: -0.005101135, z: -0.005371053, w: 0.9021222}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.71182865, y: 0.13313057, z: -0.122259006, w: 0.6786965}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.20422792, y: -0.1573409, z: 0.03293262, w: 0.9656346}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.04877988, y: -0.01697914, z: 0.008495158, w: 0.99862915}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.16685285, y: -0.03546644, z: 0.017977148, w: 0.9851797}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.16685295, y: -0.035466474, z: 0.017977137, w: 0.9851797}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.43208826, y: -0.023623213, z: 0.4553292, w: 0.7780855}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.36822066, y: 0.23605111, z: -0.26720038, w: 0.8586602}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.017468112, y: -0.000070262235, z: -0.23916961, w: 0.97082067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.26800522, y: -0.051637974, z: 0.14363955, w: 0.9512488}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.2076776, y: 0.034915607, z: -0.18164891, w: 0.9605491}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.2976442, y: 0.0018060468, z: 0.10038325, w: 0.94938284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0060082134, y: -0.028251855, z: -0.09167069, w: 0.9953704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.13009712, y: -0.04919006, z: -0.23402525, w: 0.9622304}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.06310682, y: 0.05595952, z: -0.20911092, w: 0.9742478}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0009975792, y: -0.007394148, z: -0.041349433, w: 0.9991169}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.025182921, y: -0.015698291, z: 0.0021890544, w: 0.9995572}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.06016833, y: -0.015612053, z: 0.0027374248, w: 0.9980624}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5571532, y: 0.035194546, z: -0.42516962, w: 0.7124411}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.075728655, y: -0.07870707, z: 0.46732292, w: 0.8773139}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.027320262, y: 0.0005676639, z: 0.1469059, w: 0.988773}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2167155, y: -0.023737526, z: -0.20686904, w: 0.95376945}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.061628286, y: -0.0021352489, z: 0.22994176, w: 0.97124875}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15105242, y: -0.003383913, z: 0.021883322, w: 0.98827773}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0011946685, y: -0.012472332, z: -0.09987162, w: 0.99492145}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.044669844, y: 0.28255916, z: 0.20536356, w: 0.9359438}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00095103914, y: -0.0023543471, z: 0.16734657, w: 0.98589486}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0006040709, y: 0.0046044644, z: -0.0073392554, w: 0.99996233}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00003027459, y: 0.009772917, z: -0.00009765022}
+        inSlope: {x: 0.00002116507, y: 0, z: 0}
+        outSlope: {x: 0.00002116507, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: mixamorig:CJ_GTASA:Hips
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3104246702
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3104246702
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3384240099
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 403943564
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 901935901
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1418539676
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4045374891
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1687516116
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4279235457
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 940361430
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1985743484
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4251926865
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1974690726
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3379473047
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 499994548
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 996871729
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 356215408
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4176895805
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1255316670
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4120105742
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2657427521
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 632967172
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1487866087
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2883375933
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1557017549
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1082409490
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 590234310
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 86064033
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3527050381
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2510512559
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2083300179
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1698286821
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4080017107
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1756446745
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1675716267
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00003027459
+        inSlope: 0.00002116507
+        outSlope: 0.00002116507
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.009772917
+        inSlope: 0.0000067804526
+        outSlope: 0.0000067804526
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00009765022
+        inSlope: 0.000018413586
+        outSlope: 0.000018413586
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.10554447
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.23737805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.001971947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.96566457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.16684178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.21393953
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9519658
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.14196725
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.31390807
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0039276695
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0031159902
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9494402
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.48829013
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.051797524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.011945736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.87106085
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.18478827
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.012190552
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.06150178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9807763
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.05805208
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.08039178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.9784056
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.18135475
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.4314171
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005101135
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005371053
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9021222
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.71182865
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.13313057
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.122259006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6786965
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.20422792
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.1573409
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03293262
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9656346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.04877988
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.01697914
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.008495158
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99862915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.16685285
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.03546644
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.017977148
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9851797
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.16685295
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.035466474
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.017977137
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9851797
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.43208826
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.023623213
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.4553292
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7780855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.36822066
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.23605111
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.26720038
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8586602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.017468112
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000070262235
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.23916961
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.97082067
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.26800522
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.051637974
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.14363955
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9512488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.2076776
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.034915607
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.18164891
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9605491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.2976442
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0018060468
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.10038325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.94938284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0060082134
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.028251855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.09167069
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9953704
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.13009712
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.04919006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.23402525
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9622304
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.06310682
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.05595952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.20911092
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9742478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0009975792
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.007394148
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.041349433
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9991169
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.025182921
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.015698291
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0021890544
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9995572
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.06016833
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.015612053
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0027374248
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9980624
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5571532
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.035194546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.42516962
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7124411
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.075728655
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07870707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.46732292
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8773139
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.027320262
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0005676639
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.1469059
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.988773
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.2167155
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.023737526
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.20686904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.95376945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.061628286
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0021352489
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.22994176
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.97124875
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.15105242
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.003383913
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.021883322
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.98827773
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0011946685
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.012472332
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.09987162
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99492145
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.044669844
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.28255916
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.20536356
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9359438
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00095103914
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0023543471
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.16734657
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.98589486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0006040709
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0046044644
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0073392554
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99996233
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -11.706882
+        inSlope: 0.007972717
+        outSlope: 0.007972717
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 27.944715
+        inSlope: -0.6908989
+        outSlope: -0.6908989
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.156401
+        inSlope: 0.4862809
+        outSlope: 0.4862809
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 5.607575
+        inSlope: -0.08503317
+        outSlope: -0.08503317
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.9049785
+        inSlope: -0.022010205
+        outSlope: -0.022010205
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.88148224
+        inSlope: 0.01592785
+        outSlope: 0.01592785
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 19.270914
+        inSlope: -0.16649592
+        outSlope: -0.16649592
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.8804262
+        inSlope: -0.044992834
+        outSlope: -0.044992834
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.4317467
+        inSlope: 0.07016854
+        outSlope: 0.07016854
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 19.270926
+        inSlope: -0.16746347
+        outSlope: -0.16746347
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.8804305
+        inSlope: -0.044957723
+        outSlope: -0.044957723
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.4317442
+        inSlope: 0.07018902
+        outSlope: 0.07018902
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8817492
+        inSlope: 0.14460911
+        outSlope: 0.14460911
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.8069965
+        inSlope: -0.013443232
+        outSlope: -0.013443232
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.29641357
+        inSlope: 0.34734777
+        outSlope: 0.34734777
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.8931427
+        inSlope: 0.14419556
+        outSlope: 0.14419556
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.8178596
+        inSlope: -0.012952631
+        outSlope: -0.012952631
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.42378673
+        inSlope: 0.34803098
+        outSlope: 0.34803098
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:Neck/mixamorig:CJ_GTASA:Head
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 43.940887
+        inSlope: 0.059909817
+        outSlope: 0.059909817
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 29.696793
+        inSlope: 0.7082748
+        outSlope: 0.7082748
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 72.881294
+        inSlope: 0.4565334
+        outSlope: 0.4565334
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 49.332027
+        inSlope: -0.37256238
+        outSlope: -0.37256238
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 18.66869
+        inSlope: 2.133579
+        outSlope: 2.133579
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -25.93698
+        inSlope: 8.714189
+        outSlope: 8.714189
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.9417356
+        inSlope: 0.8704653
+        outSlope: 0.8704653
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.48684725
+        inSlope: -0.42914605
+        outSlope: -0.42914605
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -27.687626
+        inSlope: -13.805264
+        outSlope: -13.805264
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -29.672703
+        inSlope: 7.2623916
+        outSlope: 7.2623916
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -11.635235
+        inSlope: -0.7622623
+        outSlope: -0.7622623
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 20.265642
+        inSlope: 17.94063
+        outSlope: 17.94063
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -15.866105
+        inSlope: 7.558958
+        outSlope: 7.558958
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.0120623
+        inSlope: 10.888314
+        outSlope: 10.888314
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -27.058743
+        inSlope: -2.4967287
+        outSlope: -2.4967287
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 8.416436
+        inSlope: 0.0036086205
+        outSlope: 0.0036086205
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.7923017
+        inSlope: -0.021810323
+        outSlope: -0.021810323
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -23.87532
+        inSlope: -0.004716956
+        outSlope: -0.004716956
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.07917756
+        inSlope: 0.000026822088
+        outSlope: 0.000026822088
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.8513176
+        inSlope: -0.000069737434
+        outSlope: -0.000069737434
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.7403674
+        inSlope: -0.00038623807
+        outSlope: -0.00038623807
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandThumb1/mixamorig:CJ_GTASA:LeftHandThumb2/mixamorig:CJ_GTASA:LeftHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 24.308767
+        inSlope: -1.9954948
+        outSlope: -1.9954948
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.52638525
+        inSlope: 0.5658463
+        outSlope: 0.5658463
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -21.530792
+        inSlope: -0.28125
+        outSlope: -0.28125
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 34.38799
+        inSlope: 0.2479477
+        outSlope: 0.2479477
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.3913136
+        inSlope: -0.00497818
+        outSlope: -0.00497818
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 13.430951
+        inSlope: -0.16639137
+        outSlope: -0.16639137
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.982128
+        inSlope: -0.00035405156
+        outSlope: -0.00035405156
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.1613894
+        inSlope: -0.00025749207
+        outSlope: -0.00025749207
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -10.496756
+        inSlope: 0.00051498413
+        outSlope: 0.00051498413
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:LeftShoulder/mixamorig:CJ_GTASA:LeftArm/mixamorig:CJ_GTASA:LeftForeArm/mixamorig:CJ_GTASA:LeftHand/mixamorig:CJ_GTASA:LeftHandIndex1/mixamorig:CJ_GTASA:LeftHandIndex2/mixamorig:CJ_GTASA:LeftHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 55.46753
+        inSlope: 0.037841797
+        outSlope: 0.037841797
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -48.356564
+        inSlope: 0.2929306
+        outSlope: 0.2929306
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -88.21858
+        inSlope: 0.24475096
+        outSlope: 0.24475096
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 11.913739
+        inSlope: 9.256045
+        outSlope: 9.256045
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.945308
+        inSlope: -4.083239
+        outSlope: -4.083239
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 55.674366
+        inSlope: -3.230066
+        outSlope: -3.230066
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 3.0874608
+        inSlope: 1.0660999
+        outSlope: 1.0660999
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5250026
+        inSlope: 0.32928175
+        outSlope: 0.32928175
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 16.915827
+        inSlope: 6.06021
+        outSlope: 6.06021
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -25.037687
+        inSlope: 11.248111
+        outSlope: 11.248111
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.8078418
+        inSlope: 14.671911
+        outSlope: 14.671911
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -25.098944
+        inSlope: -14.34843
+        outSlope: -14.34843
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -11.517756
+        inSlope: 6.23944
+        outSlope: 6.23944
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 31.40368
+        inSlope: -2.640023
+        outSlope: -2.640023
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 21.503317
+        inSlope: -2.7964923
+        outSlope: -2.7964923
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.15259218
+        inSlope: 1.031539
+        outSlope: 1.031539
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.24774693
+        inSlope: 0.1357753
+        outSlope: 0.1357753
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 19.266888
+        inSlope: -1.1433334
+        outSlope: -1.1433334
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.07309126
+        inSlope: -0.00014953314
+        outSlope: -0.00014953314
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.52711266
+        inSlope: 0.00019848345
+        outSlope: 0.00019848345
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.84069693
+        inSlope: -0.00011801719
+        outSlope: -0.00011801719
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandThumb1/mixamorig:CJ_GTASA:RightHandThumb2/mixamorig:CJ_GTASA:RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 6.9322
+        inSlope: -1.6502343
+        outSlope: -1.6502343
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.3965673
+        inSlope: 0.027658937
+        outSlope: 0.027658937
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 26.723505
+        inSlope: -2.2390223
+        outSlope: -2.2390223
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 17.380232
+        inSlope: 0.090036385
+        outSlope: 0.090036385
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.004648915
+        inSlope: 0.003894169
+        outSlope: 0.003894169
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.5362628
+        inSlope: 0.07586359
+        outSlope: 0.07586359
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00653525
+        inSlope: 0.0004039658
+        outSlope: 0.0004039658
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.4357882
+        inSlope: -0.00025749207
+        outSlope: -0.00025749207
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -11.4643755
+        inSlope: 0.0004291534
+        outSlope: 0.0004291534
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:Spine/mixamorig:CJ_GTASA:Spine1/mixamorig:CJ_GTASA:Spine2/mixamorig:CJ_GTASA:RightShoulder/mixamorig:CJ_GTASA:RightArm/mixamorig:CJ_GTASA:RightForeArm/mixamorig:CJ_GTASA:RightHand/mixamorig:CJ_GTASA:RightHandIndex1/mixamorig:CJ_GTASA:RightHandIndex2/mixamorig:CJ_GTASA:RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -27.045528
+        inSlope: -0.1619339
+        outSlope: -0.1619339
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -16.76544
+        inSlope: 0.19025801
+        outSlope: 0.19025801
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 167.09529
+        inSlope: -0.38162228
+        outSlope: -0.38162228
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -36.58747
+        inSlope: 0.16076086
+        outSlope: 0.16076086
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6717998
+        inSlope: -0.030886976
+        outSlope: -0.030886976
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5981767
+        inSlope: 0.012169181
+        outSlope: 0.012169181
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 58.149002
+        inSlope: -0.011947632
+        outSlope: -0.011947632
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 11.134014
+        inSlope: -0.052425385
+        outSlope: -0.052425385
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 7.7755213
+        inSlope: 0.26235867
+        outSlope: 0.26235867
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 21.159927
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8667955
+        inSlope: 0.0000122615265
+        outSlope: 0.0000122615265
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.7119
+        inSlope: 0.000003678458
+        outSlope: 0.000003678458
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:LeftUpLeg/mixamorig:CJ_GTASA:LeftLeg/mixamorig:CJ_GTASA:LeftFoot/mixamorig:CJ_GTASA:LeftToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -10.27469
+        inSlope: 0.5450535
+        outSlope: 0.5450535
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.9228473
+        inSlope: 0.22388934
+        outSlope: 0.22388934
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -159.44081
+        inSlope: -0.68359375
+        outSlope: -0.68359375
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -51.117657
+        inSlope: 0.26064438
+        outSlope: 0.26064438
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.41707507
+        inSlope: -0.017798895
+        outSlope: -0.017798895
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.48278555
+        inSlope: 0.025822114
+        outSlope: 0.025822114
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 87.174225
+        inSlope: 0.27822876
+        outSlope: 0.27822876
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 172.24113
+        inSlope: 4.649002
+        outSlope: 4.649002
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 151.42676
+        inSlope: 5.345398
+        outSlope: 5.345398
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 23.87749
+        inSlope: 0.013217926
+        outSlope: 0.013217926
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -18.51775
+        inSlope: -0.09834636
+        outSlope: -0.09834636
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.041671287
+        inSlope: -0.01373672
+        outSlope: -0.01373672
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: mixamorig:CJ_GTASA:Hips/mixamorig:CJ_GTASA:RightUpLeg/mixamorig:CJ_GTASA:RightLeg/mixamorig:CJ_GTASA:RightFoot/mixamorig:CJ_GTASA:RightToeBase
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
